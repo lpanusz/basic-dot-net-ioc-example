@@ -1,0 +1,6 @@
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\BoyScoutsCamp.Model\bin\Debug\BoyScoutsCamp.Model.dll
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\BoyScoutsCamp.Model\bin\Debug\BoyScoutsCamp.Model.pdb
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\BoyScoutsCamp.Model\obj\Debug\BoyScoutsCamp.Model.csprojResolveAssemblyReference.cache
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\BoyScoutsCamp.Model\obj\Debug\BoyScoutsCamp.Model.csproj.CoreCompileInputs.cache
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\BoyScoutsCamp.Model\obj\Debug\BoyScoutsCamp.Model.dll
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\BoyScoutsCamp.Model\obj\Debug\BoyScoutsCamp.Model.pdb

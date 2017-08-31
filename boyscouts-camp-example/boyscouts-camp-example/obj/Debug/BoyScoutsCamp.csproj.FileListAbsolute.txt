@@ -1,0 +1,13 @@
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\boyscouts-camp-example.exe.config
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\boyscouts-camp-example.exe
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\boyscouts-camp-example.pdb
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\BoyScoutsCamp.Service.dll
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\BoyScoutsCamp.Repository.dll
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\BoyScoutsCamp.Model.dll
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\BoyScoutsCamp.Service.pdb
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\BoyScoutsCamp.Repository.pdb
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\bin\Debug\BoyScoutsCamp.Model.pdb
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\obj\Debug\BoyScoutsCamp.csprojResolveAssemblyReference.cache
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\obj\Debug\BoyScoutsCamp.csproj.CoreCompileInputs.cache
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\obj\Debug\boyscouts-camp-example.exe
+C:\Users\lpanusz\source\repos\boyscouts-camp-example\boyscouts-camp-example\obj\Debug\boyscouts-camp-example.pdb
